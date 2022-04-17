@@ -9,7 +9,7 @@ I’m late! is a game about a student running for the bus because he just missed
 __**Software**__
 
 This game was created using:
-<a href="https://p5js.org/" target="_blank">p5.js</a>
+<a href="https://p5js.org/" target="_blank">p5.js</a>, 
 <a href="https://molleindustria.github.io/p5.play/" target="_blank">p5.play</a>
 <!-- https://p5js.org/
 https://molleindustria.github.io/p5.play/ -->
